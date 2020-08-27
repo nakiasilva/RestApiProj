@@ -96,16 +96,19 @@
 
 - Install **Python >= 3.7.0**
 
-- Install **pip >= 3.7** </br>
+- Install **pip >= 3.7** </br></br>
     `python get-pip.py`
 
-- Install **Django >= 3.0.8** </br>
+- Install **Django >= 3.0.8** </br></br>
+
     `pip install Django`
 
-- Install **Django REST framework** </br>
+- Install **Django REST framework** </br></br>
+
     `pip install djangorestframework`
 
-- Install **django-cors-headers >= 3.4.0** </br>
+- Install **django-cors-headers >= 3.4.0** </br></br>
+
     `pip install django-cors-headers`
 
 
