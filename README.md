@@ -93,18 +93,27 @@
 
 - Install the following depencies
 
-```
+
 - Install **Python >= 3.7.0**
+
 - Install **pip >= 3.7**
     `python get-pip.py`
+
 - Install **Django >= 3.0.8**
     `pip install Django`
+
 - Install **Django REST framework**
     `pip install djangorestframework`
+
 - Install **django-cors-headers >= 3.4.0**
     `pip install django-cors-headers`
 
-```
+
 
 
 ## Execution
+
+> To start the server follow the instructio below :
+- Open terminal inside the folder `RestApiProj` 
+- Run the below command through CLI 
+    `python manage.py runserver`
