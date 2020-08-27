@@ -37,6 +37,7 @@
 
 
 
+
 ## Responses
 
 **Product:**
@@ -91,12 +92,12 @@
 
 ## Installations 
 
-- Install the following depencies
+> Install the following depencies
 
 
 - Install Python >= **3.7.0** </br></br>
 
-- Install **pip >= 3.7** 
+- Install pip >= **3.7** 
 
     `python get-pip.py` </br></br>
 
@@ -114,10 +115,11 @@
 
 
 
-
 ## Execution
 
-> To start the server follow the instructio below :
+> To start the server follow the instructions below :
+
 - Open terminal inside the folder `RestApiProj` 
+
 - Run the below command through CLI </br>
     `python manage.py runserver`
