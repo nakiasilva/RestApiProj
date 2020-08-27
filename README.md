@@ -2,9 +2,11 @@
 
 > This project highlights the usage of <a href="https://www.djangoproject.com/" target="_blank">**Django framework**</a> to create RESTful APIs leveraging the Django ORM to faciliate database migrations.
 
-> Sqlite3, a self contained, serverless SQL database engine is used to store, retrieve and alter data hence   eliminating the need of manual creation and handling of database.
+> Database: <a href="https://www.sqlite.org/index.html" target="_blank">**Sqlite3**</a> , a self contained, serverless SQL database engine is used to store, retrieve and alter data hence   eliminating the need of manual creation and handling of database.
 
-> TDD was employed while writing the test cases for each functionalities.
+> Testing: TDD was employed while writing the test cases for each functionalities.
+
+
 
 
 **The following endpoints were created in this application:**
