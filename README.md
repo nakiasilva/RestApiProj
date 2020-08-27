@@ -1,7 +1,4 @@
-# RestApiProj
- Django Rest API Project
-
- # Rest API Application
+# Rest API Application
 
 > This project highlights the usage of <a href="https://www.djangoproject.com/" target="_blank">**Django framework**</a> to create RESTful APIs leveraging the Django ORM to faciliate database migrations.
 
