@@ -2,10 +2,11 @@
 
 ## Table of Contents
 
-[Introduction](#introduction)
-[APIs](#APIs)
-[Responses](#response)
-[Execution](#execution)
+- [Introduction](#introduction)
+- [APIs](#APIs)
+- [Responses](#response)
+- [Installations](#installations)
+- [Execution](#execution)
 
 
 
@@ -85,5 +86,21 @@
   ]
 }
 ```
+
+
+
+## Installations 
+
+- Install the following depencies
+'''
+- Install Python 3.7 and above
+- Install Django 
+    'python -m pip install Django'
+- Install Django REST framework
+    'pip install djangorestframework'
+
+
+'''
+
 
 ## Execution
