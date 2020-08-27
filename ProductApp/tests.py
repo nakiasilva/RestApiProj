@@ -21,7 +21,7 @@ from .models import Products, ProductOptions
 # Create your tests here.
 
 class TestUrls(SimpleTestCase):
-	
+
 	'''
 		This class will test Product and 
 		ProductOptions endpoints
@@ -156,4 +156,6 @@ class ProductOptionsFunctionality(APITestCase):
 		}
 		response =  self.client.put(url, data)
 		self.assertEqual(response.status_code, status.HTTP_200_OK)
+
+
 
