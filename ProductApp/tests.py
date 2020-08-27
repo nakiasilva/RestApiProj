@@ -21,6 +21,7 @@ from .models import Products, ProductOptions
 # Create your tests here.
 
 class TestUrls(SimpleTestCase):
+	
 	'''
 		This class will test Product and 
 		ProductOptions endpoints
@@ -45,10 +46,12 @@ class TestUrls(SimpleTestCase):
 
 
 class ProductFunctionality(APITestCase):
+
 	'''
 		This class will test Product endpoint reponses
 		Test Methods - GET, POST, PUT, DELETE
 	'''
+
 	def test_save_product(self):
 
 		data = {
@@ -106,10 +109,12 @@ class ProductFunctionality(APITestCase):
 
 
 class ProductOptionsFunctionality(APITestCase):
+
 	'''
 		This class will test ProductOptions endpoint reponses
 		Test Methods - GET, POST, PUT, DELETE
 	'''
+
 	def test_save_productoption(self):
 		data = {
 			'name' : 'Brown', 
