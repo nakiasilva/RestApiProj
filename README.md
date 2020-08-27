@@ -3,10 +3,10 @@
 ## Table of Contents
 
 [Introduction](#Introduction)
-[API Endpoints](#API Endpoints)
+[Endpoints](#API Endpoints)
 
 
-## Intrtoduction
+## Introduction
 
 > This project highlights the usage of <a href="https://www.djangoproject.com/" target="_blank">**Django framework**</a> to create <a href="https://www.django-rest-framework.org/" target="_blank">**RESTful APIs**</a> leveraging the Django ORM to faciliate database migrations.
 
@@ -16,7 +16,7 @@
 
 
 
-## API Endpoints
+## Endpoints
 **The following endpoints were created in this application:**
 
 1. `GET /products` - gets all products in the database.
