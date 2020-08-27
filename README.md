@@ -2,8 +2,11 @@
 
 ## Table of Contents
 
-[Introduction](#Introduction)
-[Endpoints](#API Endpoints)
+[Introduction](#introduction)
+[APIs](#APIs)
+[Responses](#response)
+[Execution](#execution)
+
 
 
 ## Introduction
@@ -16,7 +19,7 @@
 
 
 
-## Endpoints
+## APIs
 **The following endpoints were created in this application:**
 
 1. `GET /products` - gets all products in the database.
@@ -32,7 +35,8 @@
 11. `DELETE /products/{id}/options/{optionId}` - deletes the specified product option in the database.
 
 
-The 
+
+## Responses
 
 **Product:**
 ```
@@ -82,3 +86,4 @@ The
 }
 ```
 
+## Execution
