@@ -94,20 +94,20 @@
 - Install the following depencies
 
 
-- Install **Python >= 3.7.0**
+- Install **Python >= 3.7.0** </br></br>
 
-- Install **pip >= 3.7** </br></br>
-    `python get-pip.py`
+- Install **pip >= 3.7** 
+    `python get-pip.py` </br></br>
 
-- Install **Django >= 3.0.8** </br></br>
+- Install **Django >= 3.0.8** 
 
-    `pip install Django`
+    `pip install Django`</br></br>
 
-- Install **Django REST framework** </br></br>
+- Install **Django REST framework** 
 
-    `pip install djangorestframework`
+    `pip install djangorestframework`</br></br>
 
-- Install **django-cors-headers >= 3.4.0** </br></br>
+- Install **django-cors-headers >= 3.4.0** 
 
     `pip install django-cors-headers`
 
