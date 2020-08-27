@@ -1,6 +1,6 @@
 # Rest API Application
 
-> This project highlights the usage of <a href="https://www.djangoproject.com/" target="_blank">**Django framework**</a> to create RESTful APIs leveraging the Django ORM to faciliate database migrations.
+> This project highlights the usage of <a href="https://www.djangoproject.com/" target="_blank">**Django framework**</a> to create <a href="https://www.django-rest-framework.org/" target="_blank">**RESTful APIs**</a> leveraging the Django ORM to faciliate database migrations.
 
 > Database: <a href="https://www.sqlite.org/index.html" target="_blank">**Sqlite3**</a> , a self contained, serverless SQL database engine is used to store, retrieve and alter data hence   eliminating the need of manual creation and handling of database.
 
