@@ -131,4 +131,4 @@
 
 > GET
 
-![Alt text](Images/Screen Shot 2020-08-28 at 10.52.42 am.png?raw=true "Optional Title")
+![Alt text](Images/get.png?raw=true "GET")
