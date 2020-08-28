@@ -129,20 +129,20 @@
 
 ## Example
 
-> GET
+> **GET**
 
 ![screenshot](https://github.com/nakiasilva/RestApiProj/blob/master/Images/Get.png)
 
-> PUT
+> **PUT**
 
 ![screenshot](https://github.com/nakiasilva/RestApiProj/blob/master/Images/Put.png)
 
 ![screenshot](https://github.com/nakiasilva/RestApiProj/blob/master/Images/Put2.png)
 
-> POST
+> **POST**
 
 ![screenshot](https://github.com/nakiasilva/RestApiProj/blob/master/Images/Post.png)
 
-> DELETE
+> **DELETE**
 
 ![screenshot](https://github.com/nakiasilva/RestApiProj/blob/master/Images/Delete.png)
