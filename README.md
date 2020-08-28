@@ -7,6 +7,7 @@
 - [Responses](#response)
 - [Installations](#installations)
 - [Execution](#execution)
+- [Example](#example)
 
 
 
@@ -123,3 +124,11 @@
 
 - Run the below command through CLI </br>
     `python manage.py runserver`
+
+- Test endpoints in postman 
+
+## Example
+
+> GET
+
+![Alt text](Images/Screen Shot 2020-08-28 at 10.52.42 am.png?raw=true "Optional Title")
