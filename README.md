@@ -131,7 +131,6 @@
 
 > GET
 
-
-![Screenshot](/Images/get.png)
+![screenshot](/Images/get.png)
 
 
