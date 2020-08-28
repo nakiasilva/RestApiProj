@@ -131,4 +131,4 @@
 
 > GET
 
-![Screenshot](/Images/get.png?raw=true "GET")
+![Screenshot](/Images/get.png)
