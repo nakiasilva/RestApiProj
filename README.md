@@ -130,18 +130,10 @@
 ## Example
 
 > **GET**
-
+```
 ![screenshot](https://github.com/nakiasilva/RestApiProj/blob/master/Images/Get.png)
-
-
-
-> **PUT**
-
-![screenshot](https://github.com/nakiasilva/RestApiProj/blob/master/Images/Put.png)
-
-![screenshot](https://github.com/nakiasilva/RestApiProj/blob/master/Images/Put2.png)
-
-
+```
+</br> </br>
 
 > **POST**
 
