@@ -131,6 +131,7 @@
 
 > GET
 
-![Screenshot](https://raw.githubusercontent.com/nakiasilva/RestApiProj/Images/get.png)
+
+![Screenshot](/Images/get.png)
 
 
