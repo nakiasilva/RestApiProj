@@ -131,6 +131,18 @@
 
 > GET
 
+![screenshot](https://github.com/nakiasilva/RestApiProj/blob/master/Images/Get.png)
 
+> PUT
 
-![screenshot](https://image.shutterstock.com/image-photo/bright-spring-view-cameo-island-260nw-1048185397.jpg)
+![screenshot](https://github.com/nakiasilva/RestApiProj/blob/master/Images/Put.png)
+
+![screenshot](https://github.com/nakiasilva/RestApiProj/blob/master/Images/Put2.png)
+
+> POST
+
+![screenshot](https://github.com/nakiasilva/RestApiProj/blob/master/Images/Post.png)
+
+> DELETE
+
+![screenshot](https://github.com/nakiasilva/RestApiProj/blob/master/Images/Delete.png)
